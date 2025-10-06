@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    /* VanPlaza Sport Theme - Dark Premium */
+    --background: 220 26% 6%;
+    --foreground: 0 0% 98%;
+
+    --card: 220 20% 10%;
+    --card-foreground: 0 0% 98%;
+
+    --popover: 220 20% 10%;
+    --popover-foreground: 0 0% 98%;
+
+    /* Electric Blue Primary */
+    --primary: 210 100% 56%;
+    --primary-foreground: 0 0% 100%;
+    --primary-glow: 210 100% 70%;
+
+    /* Silver Secondary */
+    --secondary: 220 15% 20%;
+    --secondary-foreground: 0 0% 95%;
+
+    --muted: 220 15% 15%;
+    --muted-foreground: 215 16% 60%;
+
+    /* Neon Accent */
+    --accent: 210 100% 56%;
+    --accent-foreground: 0 0% 100%;
+
+    /* Red CTA */
+    --destructive: 0 85% 58%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 220 15% 18%;
+    --input: 220 15% 18%;
+    --ring: 210 100% 56%;
+
+    --radius: 0.75rem;
+
+    /* Gradients */
+    --gradient-primary: linear-gradient(135deg, hsl(210 100% 56%), hsl(210 100% 70%));
+    --gradient-hero: linear-gradient(180deg, hsl(220 26% 6% / 0.4), hsl(220 26% 6%));
+    --gradient-card: linear-gradient(135deg, hsl(220 20% 10% / 0.8), hsl(220 15% 15% / 0.6));
+
+    /* Shadows & Effects */
+    --shadow-glow: 0 0 40px hsl(210 100% 56% / 0.3);
+    --shadow-card: 0 8px 32px hsl(220 26% 6% / 0.5);
+    
+    /* Transitions */
+    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    --transition-spring: all 0.5s cubic-bezier(0.34, 1.56, 0.64, 1);
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  }
+}
