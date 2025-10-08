@@ -1,110 +1,29 @@
 [
   {
     "id": 1,
-    "name": "Barcelona Home 24/25",
-    "team": "FC Barcelona",
-    "color": "Blue & Red",
-    "sizes": ["S", "M", "L", "XL", "XXL"],
-    "price": "$89",
-    "image": "https://images.unsplash.com/photo-1522778526097-ce0a22ceb253?q=80&w=800"
+    "name": "Liverpool F.C. 2025/26 Home Kit",
+    "team": "Liverpool F.C.",
+    "color": "Red",
+    "sizes": ["S", "M", "L", "XL"],
+    "price": "350৳",
+    "image": "https://scontent.fjsr13-1.fna.fbcdn.net/v/t39.30808-6/557744865_122110571997008941_6745649405577516704_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEbvmn6Ncif6kgLD-di3eScECoVlXys5IQQKhWVfKzkhKt90i5x4D-uNAKCpHz6Onuqfc_sXOq-LsOPeAWE0JqM&_nc_ohc=bv5fYwdFCRAQ7kNvwFxXDXa&_nc_oc=AdlCbARbxcoCXVSwdrB8hHFe_X2NQwVo27SnJQEE0j7nrBu09hSIT4msYs5p0hyOArs&_nc_zt=23&_nc_ht=scontent.fjsr13-1.fna&_nc_gid=QwaD0nvMbG6fMDpzPwqALA&oh=00_AfeZJwg1TKPk4O03bb4aSv6Ka_cLyFQtkfg9bvnwaXbdmQ&oe=68EC0E17"
   },
   {
     "id": 2,
-    "name": "Real Madrid Away 24/25",
-    "team": "Real Madrid",
-    "color": "Black & Gold",
-    "sizes": ["S", "M", "L", "XL", "XXL"],
-    "price": "$92",
-    "image": "https://images.unsplash.com/photo-1614632537423-1e6c2e7e0aab?q=80&w=800"
+    "name": "Customized Kit",
+    "team": "VAN PLAZA Customized Kit",
+    "color": "White & Gray",
+    "sizes": ["S", "M", "L", "XL"],
+    "price": "350৳",
+    "image": "https://scontent.fjsr13-1.fna.fbcdn.net/v/t39.30808-6/542136328_122097108525008941_753209232092134465_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGmVA02J26EBlcDe3sEo_QDyuP3zk1F-YvK4_fOTUX5i2gK6QNSn5mPKPE5lLgNBWP1SM_LK6R_iybkSmecUb9P&_nc_ohc=u3EDG06aFbsQ7kNvwG3pJZS&_nc_oc=AdlLCfY5stu-wD0R77ItRErAyEsO6mr8mWpzwydy3Duypaz_L9IRuxcTJsWbFQKvE8Q&_nc_zt=23&_nc_ht=scontent.fjsr13-1.fna&_nc_gid=-aoXZcZtQy1L8bXRz8-kAQ&oh=00_AfdW53bb4EjqAQO4at5wEMtNDrhp1OanPTBMAkd_YTs6PA&oe=68EC1CBB"
   },
   {
     "id": 3,
-    "name": "Manchester United Home 24/25",
-    "team": "Manchester United",
-    "color": "Red & White",
-    "sizes": ["S", "M", "L", "XL", "XXL"],
-    "price": "$88",
-    "image": "https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?q=80&w=800"
-  },
-  {
-    "id": 4,
-    "name": "Liverpool Third Kit 24/25",
-    "team": "Liverpool FC",
-    "color": "Teal & Yellow",
+    "name": "Tottenham Hotspur 2025/26 Home Kit",
+    "team": "Tottenham Hotspur",
+    "color": "White",
     "sizes": ["S", "M", "L", "XL"],
-    "price": "$85",
-    "image": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?q=80&w=800"
-  },
-  {
-    "id": 5,
-    "name": "Bayern Munich Home 24/25",
-    "team": "Bayern Munich",
-    "color": "Red & White",
-    "sizes": ["S", "M", "L", "XL", "XXL"],
-    "price": "$90",
-    "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?q=80&w=800"
-  },
-  {
-    "id": 6,
-    "name": "PSG Away 24/25",
-    "team": "Paris Saint-Germain",
-    "color": "White & Blue",
-    "sizes": ["S", "M", "L", "XL"],
-    "price": "$91",
-    "image": "https://images.unsplash.com/photo-1511886929837-354d827aae26?q=80&w=800"
-  },
-  {
-    "id": 7,
-    "name": "Chelsea Home 24/25",
-    "team": "Chelsea FC",
-    "color": "Blue & White",
-    "sizes": ["S", "M", "L", "XL", "XXL"],
-    "price": "$87",
-    "image": "https://images.unsplash.com/photo-1577223625816-7546f15602c6?q=80&w=800"
-  },
-  {
-    "id": 8,
-    "name": "Juventus Home 24/25",
-    "team": "Juventus",
-    "color": "Black & White Stripes",
-    "sizes": ["S", "M", "L", "XL"],
-    "price": "$86",
-    "image": "https://images.unsplash.com/photo-1614632537423-1e6c2e7e0aab?q=80&w=800"
-  },
-  {
-    "id": 9,
-    "name": "Manchester City Away 24/25",
-    "team": "Manchester City",
-    "color": "Navy Blue",
-    "sizes": ["S", "M", "L", "XL", "XXL"],
-    "price": "$93",
-    "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?q=80&w=800"
-  },
-  {
-    "id": 10,
-    "name": "AC Milan Home 24/25",
-    "team": "AC Milan",
-    "color": "Red & Black Stripes",
-    "sizes": ["S", "M", "L", "XL"],
-    "price": "$84",
-    "image": "https://images.unsplash.com/photo-1522778526097-ce0a22ceb253?q=80&w=800"
-  },
-  {
-    "id": 11,
-    "name": "Inter Milan Away 24/25",
-    "team": "Inter Milan",
-    "color": "White & Blue",
-    "sizes": ["S", "M", "L", "XL", "XXL"],
-    "price": "$88",
-    "image": "https://images.unsplash.com/photo-1606925797300-0b35e9d1794e?q=80&w=800"
-  },
-  {
-    "id": 12,
-    "name": "Arsenal Third Kit 24/25",
-    "team": "Arsenal FC",
-    "color": "Black & Pink",
-    "sizes": ["S", "M", "L", "XL"],
-    "price": "$89",
-    "image": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?q=80&w=800"
+    "price": "350৳",
+    "image": "https://scontent.fjsr13-1.fna.fbcdn.net/v/t39.30808-6/556945328_122110571649008941_479112321556057555_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHENryLdqVdBTqjYhlBip-HhW6YXOe2r3uFbphc57ave3UfGXMm2wOxWD1nTfNhy4GAsuTkno2Ka7QVBlMGHFgt&_nc_ohc=ZZkYSG-wDB4Q7kNvwESn5UK&_nc_oc=AdnxorCNTrPlOm15LY_KII7M9KBLf4p-azzNwjYO7KYnoDYM45lsrGt6MW9pLrPBhwM&_nc_zt=23&_nc_ht=scontent.fjsr13-1.fna&_nc_gid=hI8xZ_D4SZXEf2HXpH_3XQ&oh=00_AfeYDwwEe6c5dqNwacmMG9zpsd898Xe7nim_WZVoblSzWg&oe=68EC2BBB"
   }
 ]
