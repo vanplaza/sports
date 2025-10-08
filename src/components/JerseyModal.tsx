@@ -34,11 +34,11 @@ const JerseyModal = ({ jersey, isOpen, onClose }: JerseyModalProps) => {
   return (
     <>
       <Dialog open={isOpen} onOpenChange={onClose}>
-        <DialogContent className="max-w-2xl bg-card border-border">
+        <DialogContent className="max-w-2xl w-[calc(100%-2rem)] bg-card border-border">
           <DialogHeader>
-            <DialogTitle className="text-2xl font-bold">{jersey.name}</DialogTitle>
+            <DialogTitle className="text-xl sm:text-2xl font-bold">{jersey.name}</DialogTitle>
           </DialogHeader>
-          <div className="grid md:grid-cols-2 gap-6">
+          <div className="grid md:grid-cols-2 gap-4 sm:gap-6">
             <div className="aspect-square overflow-hidden rounded-lg">
               <img
                 src={jersey.image}
