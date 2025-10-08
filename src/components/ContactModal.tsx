@@ -32,14 +32,14 @@ const ContactModal = ({ isOpen, onClose, jerseyName }: ContactModalProps) => {
 
   return (
     <Dialog open={isOpen} onOpenChange={onClose}>
-      <DialogContent className="bg-card border-border max-w-md">
+      <DialogContent className="bg-card border-border max-w-md w-[calc(100%-2rem)]">
         <DialogHeader>
-          <DialogTitle className="text-2xl font-bold">Contact VanPlaza</DialogTitle>
+          <DialogTitle className="text-xl sm:text-2xl font-bold">Contact VanPlaza</DialogTitle>
           <DialogDescription className="text-muted-foreground">
             Choose your preferred method to contact us
           </DialogDescription>
         </DialogHeader>
-        <div className="space-y-4 pt-4">
+        <div className="space-y-3 sm:space-y-4 pt-4">
           <Button
             onClick={() => window.open(whatsappLink, "_blank")}
             variant="hero"
