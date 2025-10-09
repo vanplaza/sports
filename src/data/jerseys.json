@@ -34,5 +34,14 @@
     "sizes": ["S", "M", "L", "XL"],
     "price": "650৳-750৳",
     "image": "https://scontent.fdac11-1.fna.fbcdn.net/v/t39.30808-6/544870044_122097108519008941_7490204316559118099_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=44ZNwkyzPzYQ7kNvwGow6fF&_nc_oc=AdlgI70zQlJs_WQGQ349iuDSgPzmrEDmJ8S8uovjlC7uco9pgYK4QGhYiYBkxhT2jmc&_nc_zt=23&_nc_ht=scontent.fdac11-1.fna&_nc_gid=fnibkuyBNH7-MyGZOYGhhg&oh=00_AfcBzkbXqNHTmtZK29jYpAOsHP78jM1ENjFdkrc2yx4lBg&oe=68ED43F5"
+  },
+  {
+    "id": 5,
+    "name": "Customised Kit",
+    "team": "VAN PLAZA customised kit",
+    "color": " Green",
+    "sizes": ["S", "M", "L", "XL"],
+    "price": "650৳-750৳",
+    "image": "https://scontent.fdac11-2.fna.fbcdn.net/v/t39.30808-6/542112675_122097108561008941_7970935243023704061_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=d1jvx6ygVWwQ7kNvwHb4pRX&_nc_oc=AdmVke2VkTEnqiXTxnaHTSAJMxiLLTZQgFq3uSRBnIgQ7RMB2sycXpHTm7qtO7FCYVg&_nc_zt=23&_nc_ht=scontent.fdac11-2.fna&_nc_gid=zJaztCh5jsyNXQOjFLFtTQ&oh=00_Afct4fU2X6L9sWbEbkq6JO_KVRQtR2l_qn4A6sk-cnvjxg&oe=68ED5BD8"
   }
 ]
