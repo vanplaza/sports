@@ -25,5 +25,14 @@
     "sizes": ["S", "M", "L", "XL"],
     "price": "350৳",
     "image": "https://scontent.fjsr13-1.fna.fbcdn.net/v/t39.30808-6/556945328_122110571649008941_479112321556057555_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHENryLdqVdBTqjYhlBip-HhW6YXOe2r3uFbphc57ave3UfGXMm2wOxWD1nTfNhy4GAsuTkno2Ka7QVBlMGHFgt&_nc_ohc=ZZkYSG-wDB4Q7kNvwESn5UK&_nc_oc=AdnxorCNTrPlOm15LY_KII7M9KBLf4p-azzNwjYO7KYnoDYM45lsrGt6MW9pLrPBhwM&_nc_zt=23&_nc_ht=scontent.fjsr13-1.fna&_nc_gid=hI8xZ_D4SZXEf2HXpH_3XQ&oh=00_AfeYDwwEe6c5dqNwacmMG9zpsd898Xe7nim_WZVoblSzWg&oe=68EC2BBB"
-  }
+  },
+  {
+    "id": 4,
+    "name": "Customised Kit",
+    "team": "Your Team",
+    "color": " blue & white",
+    "sizes": ["S", "M", "L", "XL"],
+    "price": "650৳-750৳",
+    "image": "https://scontent.fdac11-1.fna.fbcdn.net/v/t39.30808-6/544870044_122097108519008941_7490204316559118099_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=44ZNwkyzPzYQ7kNvwGow6fF&_nc_oc=AdlgI70zQlJs_WQGQ349iuDSgPzmrEDmJ8S8uovjlC7uco9pgYK4QGhYiYBkxhT2jmc&_nc_zt=23&_nc_ht=scontent.fdac11-1.fna&_nc_gid=fnibkuyBNH7-MyGZOYGhhg&oh=00_AfcBzkbXqNHTmtZK29jYpAOsHP78jM1ENjFdkrc2yx4lBg&oe=68ED43F5"
+  },
 ]
