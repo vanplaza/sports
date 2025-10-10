@@ -52,7 +52,7 @@ const JerseyModal = ({ jersey, isOpen, onClose }: JerseyModalProps) => {
                 <p className="text-lg font-semibold">{jersey.team}</p>
               </div>
               <div>
-                <h3 className="text-sm font-medium text-muted-foreground">Color</h3>
+                <h3 className="text-sm font-medium text-muted-foreground">Overview</h3>
                 <p className="text-lg font-semibold">{jersey.color}</p>
               </div>
               <div>
